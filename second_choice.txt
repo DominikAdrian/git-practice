@@ -1,4 +1,4 @@
 You are in a room with three doors.
 Which door will you go through?
 You enter the door to your left.
-You have left the building through the main entrance.
+You have entered the kitchen.
